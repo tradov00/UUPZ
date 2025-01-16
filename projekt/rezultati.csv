@@ -1,0 +1,91 @@
+#,Domaćin,Golovi domaćina,Golovi gosta,Gost,Pobjednik
+1.,Dinamo,5,0,Istra 1961,D
+2.,Gorica,0,0,Varaždin,N
+3.,Rijeka,4,0,Lokomotiva,D
+4.,Osijek,1,2,Šibenik,G
+5.,Hajduk,2,1,Slaven Belupo,D
+6.,Šibenik,2,0,Slaven Belupo,D
+7.,Istra 1961,2,1,Gorica,D
+8.,Lokomotiva,1,1,Hajduk,N
+9.,Varaždin,0,0,Rijeka,N
+10.,Osijek,1,2,Dinamo,G
+11.,Dinamo,3,0,Šibenik,D
+12.,Slaven Belupo,2,2,Lokomotiva,N
+13.,Hajduk,2,1,Varaždin,D
+14.,Gorica,2,2,Osijek,N
+15.,Rijeka,4,0,Istra 1961,D
+16.,Lokomotiva,0,1,Šibenik,G
+17.,Varaždin,2,0,Slaven Belupo,D
+18.,Dinamo,2,1,Gorica,D
+19.,Istra 1961,1,1,Hajduk,N
+20.,Osijek,0,2,Rijeka,G
+21.,Gorica,2,1,Šibenik,D
+22.,Slaven Belupo,0,1,Istra 1961,G
+23.,Hajduk,1,0,Osijek,D
+24.,Lokomotiva,0,1,Varaždin,G
+25.,Rijeka,1,1,Dinamo,N
+26.,Dinamo,0,1,Hajduk,G
+27.,Istra 1961,0,2,Lokomotiva,G
+28.,Gorica,0,1,Rijeka,G
+29.,Osijek,1,0,Slaven Belupo,D
+30.,Šibenik,0,0,Varaždin,N
+31.,Varaždin,1,0,Istra 1961,D
+32.,Slaven Belupo,4,1,Dinamo,D
+33.,Hajduk,4,1,Gorica,D
+34.,Lokomotiva,0,1,Osijek,G
+35.,Rijeka,3,0,Šibenik,D
+36.,Šibenik,0,0,Istra 1961,N
+37.,Dinamo,5,1,Lokomotiva,D
+38.,Osijek,2,1,Varaždin,D
+39.,Rijeka,0,0,Hajduk,N
+40.,Gorica,2,1,Slaven Belupo,D
+41.,Istra 1961,2,1,Osijek,D
+42.,Lokomotiva,2,0,Gorica,D
+43.,Slaven Belupo,0,0,Rijeka,N
+44.,Varaždin,0,1,Dinamo,G
+45.,Hajduk,4,0,Šibenik,D
+46.,Lokomotiva,2,2,Rijeka,N
+47.,Šibenik,1,3,Osijek,G
+48.,Istra 1961,2,2,Dinamo,N
+49.,Slaven Belupo,0,2,Hajduk,G
+50.,Varaždin,2,1,Gorica,D
+51.,Slaven Belupo,2,2,Šibenik,N
+52.,Hajduk,2,1,Lokomotiva,D
+53.,Rijeka,1,1,Varaždin,N
+54.,Dinamo,2,4,Osijek,G
+55.,Gorica,1,0,Istra 1961,D
+56.,Šibenik,0,4,Dinamo,G
+57.,Lokomotiva,0,1,Slaven Belupo,G
+58.,Osijek,2,0,Gorica,D
+59.,Istra 1961,0,1,Rijeka,G
+60.,Varaždin,1,0,Hajduk,D
+61.,Šibenik,0,3,Lokomotiva,G
+62.,Gorica,2,2,Dinamo,N
+63.,Hajduk,1,1,Istra 1961,N
+64.,Slaven Belupo,1,1,Varaždin,N
+65.,Rijeka,1,1,Osijek,N
+66.,Istra 1961,2,3,Slaven Belupo,G
+67.,Varaždin,1,1,Lokomotiva,N
+68.,Dinamo,0,0,Rijeka,N
+69.,Osijek,2,2,Hajduk,N
+70.,Šibenik,1,0,Gorica,D
+71.,Varaždin,2,1,Šibenik,D
+72.,Slaven Belupo,3,2,Osijek,D
+73.,Rijeka,1,0,Gorica,D
+74.,Lokomotiva,1,2,Istra 1961,G
+75.,Hajduk,1,0,Dinamo,D
+76.,Dinamo,1,1,Slaven Belupo,N
+77.,Istra 1961,0,0,Varaždin,N
+78.,Gorica,1,0,Hajduk,D
+79.,Šibenik,0,1,Rijeka,G
+80.,Osijek,3,0,Lokomotiva,D
+81.,Slaven Belupo,2,1,Gorica,D
+82.,Lokomotiva,3,1,Dinamo,D
+83.,Istra 1961,3,3,Šibenik,N
+84.,Varaždin,0,0,Osijek,N
+85.,Hajduk,2,2,Rijeka,N
+86.,Osijek,2,2,Istra 1961,N
+87.,Gorica,1,4,Lokomotiva,G
+88.,Dinamo,3,2,Varaždin,D
+89.,Rijeka,2,0,Slaven Belupo,D
+90.,Šibenik,1,2,Hajduk,G
